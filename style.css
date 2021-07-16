@@ -1,0 +1,18 @@
+.People{
+    margin: 20px;
+    margin-left: 40px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    background: cadetblue;
+    width: 400px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+body{
+    color: white;
+    background-color: lightgreen;
+    margin-left: 20px;
+}
